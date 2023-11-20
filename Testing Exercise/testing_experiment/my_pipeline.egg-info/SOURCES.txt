@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+my_pipeline/__init__.py
+my_pipeline/pipeline.py
+my_pipeline.egg-info/PKG-INFO
+my_pipeline.egg-info/SOURCES.txt
+my_pipeline.egg-info/dependency_links.txt
+my_pipeline.egg-info/requires.txt
+my_pipeline.egg-info/top_level.txt
+tests/test_all.py
